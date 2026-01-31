@@ -33,3 +33,13 @@ Half Triangle Pattern
 Right Aligned Half Triangle Pattern
 
 Number Half Triangle Pattern
+
+Floyd’s Triangle
+
+0-1 Triangle
+
+Butterfly Pattern
+
+Solid Rhombus Pattern
+
+Number Pyramid Pattern
